@@ -1,0 +1,5 @@
+
+LRU – Zestaw 1:
+Strony:     [1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5]
+Pojemność:  3
+Błędy:      10

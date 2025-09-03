@@ -1,0 +1,7 @@
+FCFS – Wyniki:
+Proces   Czas przybycia  Czas wykonania  Czas wyjścia  Czas realizacji    Czas oczekiwania  
+P1       0               5               5             5                  0                 
+P2       1               8               13            12                 4                 
+P3       2               3               16            14                 11                
+
+Średni czas oczekiwania: 5.00

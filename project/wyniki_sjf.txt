@@ -1,0 +1,7 @@
+SJF – Wyniki:
+Proces   Czas przybycia  Czas wykonania  Czas wyjścia  Czas realizacji    Czas oczekiwania  
+P3       2               3               5             3                  0                 
+P1       0               5               10            10                 5                 
+P2       1               8               18            17                 9                 
+
+Średni czas oczekiwania: 4.67
